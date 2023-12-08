@@ -11,6 +11,8 @@
  - 20174017 전상민 
  - 20174012 신현상
  - 30221141 백한결
+ - 20201733 마하나로
+ - 20201778 이다혜
  - 20222008 조민서
 
 ## Project Background
@@ -22,8 +24,9 @@
   
 ## System Design
   - ### System Requirements
-    - OOO
-    - OOO
+    - #### HW
+    - #### SW
+    - 
     
 ## Case Study
   - ### Description
